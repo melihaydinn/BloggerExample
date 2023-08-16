@@ -1,0 +1,681 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\color\\blue.css",
+      "PackagePath": "staticwebassets\\color\\blue.css"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\color\\cocoa.css",
+      "PackagePath": "staticwebassets\\color\\cocoa.css"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\color\\default.css",
+      "PackagePath": "staticwebassets\\color\\default.css"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\color\\green.css",
+      "PackagePath": "staticwebassets\\color\\green.css"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\color\\yellow.css",
+      "PackagePath": "staticwebassets\\color\\yellow.css"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\css\\animate.css",
+      "PackagePath": "staticwebassets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\css\\bootstrap-responsive.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-responsive.css"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\css\\camera.css",
+      "PackagePath": "staticwebassets\\css\\camera.css"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\css\\cslider.css",
+      "PackagePath": "staticwebassets\\css\\cslider.css"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\css\\flexslider.css",
+      "PackagePath": "staticwebassets\\css\\flexslider.css"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\css\\font-awesome-ie7.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome-ie7.css"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\css\\jquery.bxslider.css",
+      "PackagePath": "staticwebassets\\css\\jquery.bxslider.css"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\css\\overwrite.css",
+      "PackagePath": "staticwebassets\\css\\overwrite.css"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\css\\prettyPhoto.css",
+      "PackagePath": "staticwebassets\\css\\prettyPhoto.css"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\css\\shortcodes.css",
+      "PackagePath": "staticwebassets\\css\\shortcodes.css"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\fonts\\fontawesome\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\fonts\\fontawesome\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\fonts\\fontawesome\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\fonts\\fontawesome\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\fonts\\fontawesome\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\ico\\apple-touch-icon-114-precomposed.png",
+      "PackagePath": "staticwebassets\\ico\\apple-touch-icon-114-precomposed.png"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\ico\\apple-touch-icon-144-precomposed.png",
+      "PackagePath": "staticwebassets\\ico\\apple-touch-icon-144-precomposed.png"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\ico\\apple-touch-icon-57-precomposed.png",
+      "PackagePath": "staticwebassets\\ico\\apple-touch-icon-57-precomposed.png"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\ico\\apple-touch-icon-72-precomposed.png",
+      "PackagePath": "staticwebassets\\ico\\apple-touch-icon-72-precomposed.png"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\ico\\favicon.png",
+      "PackagePath": "staticwebassets\\ico\\favicon.png"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\images\\20ca1781-3741-461f-b0b3-74e662eca56b.jpg",
+      "PackagePath": "staticwebassets\\images\\20ca1781-3741-461f-b0b3-74e662eca56b.jpg"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\images\\8255a7f9-6a17-4931-9b1a-d9333119344a.jpg",
+      "PackagePath": "staticwebassets\\images\\8255a7f9-6a17-4931-9b1a-d9333119344a.jpg"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\images\\a3b6337b-4eec-408b-ad11-45ff6b3a6e8b.jpg",
+      "PackagePath": "staticwebassets\\images\\a3b6337b-4eec-408b-ad11-45ff6b3a6e8b.jpg"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\images\\c2f3af64-01f8-42b5-89e4-96cd71fb8373.jpg",
+      "PackagePath": "staticwebassets\\images\\c2f3af64-01f8-42b5-89e4-96cd71fb8373.jpg"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\images\\c8dc32d2-1375-473b-998e-8740e0429009.jpg",
+      "PackagePath": "staticwebassets\\images\\c8dc32d2-1375-473b-998e-8740e0429009.jpg"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\images\\f71d4db8-b6b9-48b0-a0c6-8f9be2b500e2.jpg",
+      "PackagePath": "staticwebassets\\images\\f71d4db8-b6b9-48b0-a0c6-8f9be2b500e2.jpg"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\avatar.png",
+      "PackagePath": "staticwebassets\\img\\avatar.png"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\bg_direction_nav.png",
+      "PackagePath": "staticwebassets\\img\\bg_direction_nav.png"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\bodybg\\bg1.png",
+      "PackagePath": "staticwebassets\\img\\bodybg\\bg1.png"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\bodybg\\bg10.png",
+      "PackagePath": "staticwebassets\\img\\bodybg\\bg10.png"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\bodybg\\bg2.png",
+      "PackagePath": "staticwebassets\\img\\bodybg\\bg2.png"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\bodybg\\bg3.png",
+      "PackagePath": "staticwebassets\\img\\bodybg\\bg3.png"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\bodybg\\bg4.png",
+      "PackagePath": "staticwebassets\\img\\bodybg\\bg4.png"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\bodybg\\bg5.png",
+      "PackagePath": "staticwebassets\\img\\bodybg\\bg5.png"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\bodybg\\bg6.png",
+      "PackagePath": "staticwebassets\\img\\bodybg\\bg6.png"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\bodybg\\bg7.png",
+      "PackagePath": "staticwebassets\\img\\bodybg\\bg7.png"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\bodybg\\bg8.png",
+      "PackagePath": "staticwebassets\\img\\bodybg\\bg8.png"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\bodybg\\bg9.png",
+      "PackagePath": "staticwebassets\\img\\bodybg\\bg9.png"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\camera\\camera-loader.gif",
+      "PackagePath": "staticwebassets\\img\\camera\\camera-loader.gif"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\camera\\camera_skins.png",
+      "PackagePath": "staticwebassets\\img\\camera\\camera_skins.png"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\camera\\patterns\\_notes\\dwsync.xml",
+      "PackagePath": "staticwebassets\\img\\camera\\patterns\\_notes\\dwsync.xml"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\camera\\patterns\\overlay1.png",
+      "PackagePath": "staticwebassets\\img\\camera\\patterns\\overlay1.png"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\camera\\patterns\\overlay10.png",
+      "PackagePath": "staticwebassets\\img\\camera\\patterns\\overlay10.png"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\camera\\patterns\\overlay2.png",
+      "PackagePath": "staticwebassets\\img\\camera\\patterns\\overlay2.png"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\camera\\patterns\\overlay3.png",
+      "PackagePath": "staticwebassets\\img\\camera\\patterns\\overlay3.png"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\camera\\patterns\\overlay4.png",
+      "PackagePath": "staticwebassets\\img\\camera\\patterns\\overlay4.png"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\camera\\patterns\\overlay5.png",
+      "PackagePath": "staticwebassets\\img\\camera\\patterns\\overlay5.png"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\camera\\patterns\\overlay6.png",
+      "PackagePath": "staticwebassets\\img\\camera\\patterns\\overlay6.png"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\camera\\patterns\\overlay7.png",
+      "PackagePath": "staticwebassets\\img\\camera\\patterns\\overlay7.png"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\camera\\patterns\\overlay8.png",
+      "PackagePath": "staticwebassets\\img\\camera\\patterns\\overlay8.png"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\camera\\patterns\\overlay9.png",
+      "PackagePath": "staticwebassets\\img\\camera\\patterns\\overlay9.png"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\dummies\\blog\\img1.jpg",
+      "PackagePath": "staticwebassets\\img\\dummies\\blog\\img1.jpg"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\dummies\\blog\\img2.jpg",
+      "PackagePath": "staticwebassets\\img\\dummies\\blog\\img2.jpg"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\dummies\\blog\\img3.jpg",
+      "PackagePath": "staticwebassets\\img\\dummies\\blog\\img3.jpg"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\dummies\\blog\\small\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\dummies\\blog\\small\\1.jpg"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\dummies\\blog\\small\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\dummies\\blog\\small\\2.jpg"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\dummies\\blog\\small\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\dummies\\blog\\small\\3.jpg"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\dummies\\blog\\thumbs\\img1.jpg",
+      "PackagePath": "staticwebassets\\img\\dummies\\blog\\thumbs\\img1.jpg"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\dummies\\blog\\thumbs\\img2.jpg",
+      "PackagePath": "staticwebassets\\img\\dummies\\blog\\thumbs\\img2.jpg"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\dummies\\blog\\thumbs\\img3.jpg",
+      "PackagePath": "staticwebassets\\img\\dummies\\blog\\thumbs\\img3.jpg"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\dummies\\blog\\thumbs\\img4.jpg",
+      "PackagePath": "staticwebassets\\img\\dummies\\blog\\thumbs\\img4.jpg"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\dummies\\blog\\thumbs\\no-thumb.jpg",
+      "PackagePath": "staticwebassets\\img\\dummies\\blog\\thumbs\\no-thumb.jpg"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\dummies\\blog\\thumbs\\quote-thumb.jpg",
+      "PackagePath": "staticwebassets\\img\\dummies\\blog\\thumbs\\quote-thumb.jpg"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\dummies\\blog\\thumbs\\small1.jpg",
+      "PackagePath": "staticwebassets\\img\\dummies\\blog\\thumbs\\small1.jpg"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\dummies\\dummy-1.jpg",
+      "PackagePath": "staticwebassets\\img\\dummies\\dummy-1.jpg"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\dummies\\team\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\dummies\\team\\1.jpg"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\dummies\\team\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\dummies\\team\\2.jpg"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\dummies\\team\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\dummies\\team\\3.jpg"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\dummies\\team\\4.jpg",
+      "PackagePath": "staticwebassets\\img\\dummies\\team\\4.jpg"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\dummies\\team\\5.jpg",
+      "PackagePath": "staticwebassets\\img\\dummies\\team\\5.jpg"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\dummies\\team\\6.jpg",
+      "PackagePath": "staticwebassets\\img\\dummies\\team\\6.jpg"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\dummies\\team\\7.jpg",
+      "PackagePath": "staticwebassets\\img\\dummies\\team\\7.jpg"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\dummies\\team\\8.jpg",
+      "PackagePath": "staticwebassets\\img\\dummies\\team\\8.jpg"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\dummies\\testimonial\\1.png",
+      "PackagePath": "staticwebassets\\img\\dummies\\testimonial\\1.png"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\dummies\\testimonial\\2.png",
+      "PackagePath": "staticwebassets\\img\\dummies\\testimonial\\2.png"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\dummies\\testimonial\\3.png",
+      "PackagePath": "staticwebassets\\img\\dummies\\testimonial\\3.png"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\dummies\\testimonial\\4.png",
+      "PackagePath": "staticwebassets\\img\\dummies\\testimonial\\4.png"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\dummies\\works\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\dummies\\works\\1.jpg"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\dummies\\works\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\dummies\\works\\2.jpg"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\dummies\\works\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\dummies\\works\\3.jpg"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\dummies\\works\\4.jpg",
+      "PackagePath": "staticwebassets\\img\\dummies\\works\\4.jpg"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\dummies\\works\\5.jpg",
+      "PackagePath": "staticwebassets\\img\\dummies\\works\\5.jpg"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\dummies\\works\\6.jpg",
+      "PackagePath": "staticwebassets\\img\\dummies\\works\\6.jpg"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\dummies\\works\\7.jpg",
+      "PackagePath": "staticwebassets\\img\\dummies\\works\\7.jpg"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\dummies\\works\\8.jpg",
+      "PackagePath": "staticwebassets\\img\\dummies\\works\\8.jpg"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\dummies\\works\\big.png",
+      "PackagePath": "staticwebassets\\img\\dummies\\works\\big.png"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\dummies\\works\\detail\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\dummies\\works\\detail\\1.jpg"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\glyphicons-halflings-white.png",
+      "PackagePath": "staticwebassets\\img\\glyphicons-halflings-white.png"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\glyphicons-halflings.png",
+      "PackagePath": "staticwebassets\\img\\glyphicons-halflings.png"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\lp\\imac.png",
+      "PackagePath": "staticwebassets\\img\\lp\\imac.png"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\lp\\screen-1.png",
+      "PackagePath": "staticwebassets\\img\\lp\\screen-1.png"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\prettyPhoto\\dark_rounded\\btnNext.png",
+      "PackagePath": "staticwebassets\\img\\prettyPhoto\\dark_rounded\\btnNext.png"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\prettyPhoto\\dark_rounded\\btnPrevious.png",
+      "PackagePath": "staticwebassets\\img\\prettyPhoto\\dark_rounded\\btnPrevious.png"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\prettyPhoto\\dark_rounded\\contentPattern.png",
+      "PackagePath": "staticwebassets\\img\\prettyPhoto\\dark_rounded\\contentPattern.png"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\prettyPhoto\\dark_rounded\\default_thumbnail.gif",
+      "PackagePath": "staticwebassets\\img\\prettyPhoto\\dark_rounded\\default_thumbnail.gif"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\prettyPhoto\\dark_rounded\\loader.gif",
+      "PackagePath": "staticwebassets\\img\\prettyPhoto\\dark_rounded\\loader.gif"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\prettyPhoto\\dark_rounded\\sprite.png",
+      "PackagePath": "staticwebassets\\img\\prettyPhoto\\dark_rounded\\sprite.png"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\prettyPhoto\\dark_square\\btnNext.png",
+      "PackagePath": "staticwebassets\\img\\prettyPhoto\\dark_square\\btnNext.png"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\prettyPhoto\\dark_square\\btnPrevious.png",
+      "PackagePath": "staticwebassets\\img\\prettyPhoto\\dark_square\\btnPrevious.png"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\prettyPhoto\\dark_square\\contentPattern.png",
+      "PackagePath": "staticwebassets\\img\\prettyPhoto\\dark_square\\contentPattern.png"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\prettyPhoto\\dark_square\\default_thumbnail.gif",
+      "PackagePath": "staticwebassets\\img\\prettyPhoto\\dark_square\\default_thumbnail.gif"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\prettyPhoto\\dark_square\\loader.gif",
+      "PackagePath": "staticwebassets\\img\\prettyPhoto\\dark_square\\loader.gif"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\prettyPhoto\\dark_square\\sprite.png",
+      "PackagePath": "staticwebassets\\img\\prettyPhoto\\dark_square\\sprite.png"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\prettyPhoto\\default\\default_thumb.png",
+      "PackagePath": "staticwebassets\\img\\prettyPhoto\\default\\default_thumb.png"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\prettyPhoto\\default\\loader.gif",
+      "PackagePath": "staticwebassets\\img\\prettyPhoto\\default\\loader.gif"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\prettyPhoto\\default\\sprite.png",
+      "PackagePath": "staticwebassets\\img\\prettyPhoto\\default\\sprite.png"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\prettyPhoto\\default\\sprite_next.png",
+      "PackagePath": "staticwebassets\\img\\prettyPhoto\\default\\sprite_next.png"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\prettyPhoto\\default\\sprite_prev.png",
+      "PackagePath": "staticwebassets\\img\\prettyPhoto\\default\\sprite_prev.png"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\prettyPhoto\\default\\sprite_x.png",
+      "PackagePath": "staticwebassets\\img\\prettyPhoto\\default\\sprite_x.png"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\prettyPhoto\\default\\sprite_y.png",
+      "PackagePath": "staticwebassets\\img\\prettyPhoto\\default\\sprite_y.png"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\prettyPhoto\\facebook\\btnNext.png",
+      "PackagePath": "staticwebassets\\img\\prettyPhoto\\facebook\\btnNext.png"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\prettyPhoto\\facebook\\btnPrevious.png",
+      "PackagePath": "staticwebassets\\img\\prettyPhoto\\facebook\\btnPrevious.png"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\prettyPhoto\\facebook\\contentPatternBottom.png",
+      "PackagePath": "staticwebassets\\img\\prettyPhoto\\facebook\\contentPatternBottom.png"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\prettyPhoto\\facebook\\contentPatternLeft.png",
+      "PackagePath": "staticwebassets\\img\\prettyPhoto\\facebook\\contentPatternLeft.png"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\prettyPhoto\\facebook\\contentPatternRight.png",
+      "PackagePath": "staticwebassets\\img\\prettyPhoto\\facebook\\contentPatternRight.png"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\prettyPhoto\\facebook\\contentPatternTop.png",
+      "PackagePath": "staticwebassets\\img\\prettyPhoto\\facebook\\contentPatternTop.png"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\prettyPhoto\\facebook\\default_thumbnail.gif",
+      "PackagePath": "staticwebassets\\img\\prettyPhoto\\facebook\\default_thumbnail.gif"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\prettyPhoto\\facebook\\loader.gif",
+      "PackagePath": "staticwebassets\\img\\prettyPhoto\\facebook\\loader.gif"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\prettyPhoto\\facebook\\sprite.png",
+      "PackagePath": "staticwebassets\\img\\prettyPhoto\\facebook\\sprite.png"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\prettyPhoto\\light_rounded\\btnNext.png",
+      "PackagePath": "staticwebassets\\img\\prettyPhoto\\light_rounded\\btnNext.png"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\prettyPhoto\\light_rounded\\btnPrevious.png",
+      "PackagePath": "staticwebassets\\img\\prettyPhoto\\light_rounded\\btnPrevious.png"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\prettyPhoto\\light_rounded\\default_thumbnail.gif",
+      "PackagePath": "staticwebassets\\img\\prettyPhoto\\light_rounded\\default_thumbnail.gif"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\prettyPhoto\\light_rounded\\loader.gif",
+      "PackagePath": "staticwebassets\\img\\prettyPhoto\\light_rounded\\loader.gif"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\prettyPhoto\\light_rounded\\sprite.png",
+      "PackagePath": "staticwebassets\\img\\prettyPhoto\\light_rounded\\sprite.png"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\prettyPhoto\\light_square\\btnNext.png",
+      "PackagePath": "staticwebassets\\img\\prettyPhoto\\light_square\\btnNext.png"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\prettyPhoto\\light_square\\btnPrevious.png",
+      "PackagePath": "staticwebassets\\img\\prettyPhoto\\light_square\\btnPrevious.png"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\prettyPhoto\\light_square\\default_thumbnail.gif",
+      "PackagePath": "staticwebassets\\img\\prettyPhoto\\light_square\\default_thumbnail.gif"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\prettyPhoto\\light_square\\loader.gif",
+      "PackagePath": "staticwebassets\\img\\prettyPhoto\\light_square\\loader.gif"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\prettyPhoto\\light_square\\sprite.png",
+      "PackagePath": "staticwebassets\\img\\prettyPhoto\\light_square\\sprite.png"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\slides\\camera\\slide1\\img1.jpg",
+      "PackagePath": "staticwebassets\\img\\slides\\camera\\slide1\\img1.jpg"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\slides\\camera\\slide1\\screen.png",
+      "PackagePath": "staticwebassets\\img\\slides\\camera\\slide1\\screen.png"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\slides\\camera\\slide2\\iMac.png",
+      "PackagePath": "staticwebassets\\img\\slides\\camera\\slide2\\iMac.png"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\slides\\camera\\slide2\\img1.jpg",
+      "PackagePath": "staticwebassets\\img\\slides\\camera\\slide2\\img1.jpg"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\slides\\camera\\slide3\\browsers.png",
+      "PackagePath": "staticwebassets\\img\\slides\\camera\\slide3\\browsers.png"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\slides\\parallax\\1.png",
+      "PackagePath": "staticwebassets\\img\\slides\\parallax\\1.png"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\slides\\parallax\\2.png",
+      "PackagePath": "staticwebassets\\img\\slides\\parallax\\2.png"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\img\\slides\\parallax\\bg.jpg",
+      "PackagePath": "staticwebassets\\img\\slides\\parallax\\bg.jpg"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\js\\animate.js",
+      "PackagePath": "staticwebassets\\js\\animate.js"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\js\\camera\\camera.js",
+      "PackagePath": "staticwebassets\\js\\camera\\camera.js"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\js\\camera\\setting.js",
+      "PackagePath": "staticwebassets\\js\\camera\\setting.js"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\js\\google-code-prettify\\prettify.css",
+      "PackagePath": "staticwebassets\\js\\google-code-prettify\\prettify.css"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\js\\google-code-prettify\\prettify.js",
+      "PackagePath": "staticwebassets\\js\\google-code-prettify\\prettify.js"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\js\\inview.js",
+      "PackagePath": "staticwebassets\\js\\inview.js"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\js\\jquery.bxslider.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.bxslider.min.js"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\js\\jquery.cslider.js",
+      "PackagePath": "staticwebassets\\js\\jquery.cslider.js"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\js\\jquery.easing.1.3.js",
+      "PackagePath": "staticwebassets\\js\\jquery.easing.1.3.js"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\js\\jquery.flexslider.js",
+      "PackagePath": "staticwebassets\\js\\jquery.flexslider.js"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\js\\jquery.js",
+      "PackagePath": "staticwebassets\\js\\jquery.js"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\js\\jquery.prettyPhoto.js",
+      "PackagePath": "staticwebassets\\js\\jquery.prettyPhoto.js"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\js\\modernizr.custom.js",
+      "PackagePath": "staticwebassets\\js\\modernizr.custom.js"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\js\\portfolio\\jquery.quicksand.js",
+      "PackagePath": "staticwebassets\\js\\portfolio\\jquery.quicksand.js"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\js\\portfolio\\setting.js",
+      "PackagePath": "staticwebassets\\js\\portfolio\\setting.js"
+    },
+    {
+      "Id": "C:\\Blogger\\Blogger\\Blogger\\wwwroot\\js\\toucheffects.js",
+      "PackagePath": "staticwebassets\\js\\toucheffects.js"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.Blogger.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.build.Blogger.props",
+      "PackagePath": "build\\Blogger.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Blogger.props",
+      "PackagePath": "buildMultiTargeting\\Blogger.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildTransitive.Blogger.props",
+      "PackagePath": "buildTransitive\\Blogger.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

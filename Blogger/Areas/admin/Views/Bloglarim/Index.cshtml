@@ -1,0 +1,29 @@
+﻿<a href="/admin/Bloglarim/Insert" class="btn btn-primary" style="margin-bottom:15px;">Yeni Ekle</a>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <td>id</td>
+            <td>Blog Adı</td>
+            <td>İşlemler</td>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.id</td>
+                <td>@item.BlogName</td>
+                <td>
+                    <a href="/Admin/Bloglarim/Update/@item.id" class="btn btn-primary">Güncelle</a>
+
+                    <a href="/Admin/Bloglarim/Delete/@item.id" class="btn btn-primary">Sil</a>
+
+                    <a href="/admin/Yorumlar/@item.id" class="btn btn-primary">Yorumlar</a>
+
+                    <a href="/admin/Begeniler/@item.id" class="btn btn-primary">Beğeniler</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,23 @@
+﻿
+<a href="/admin/Proje" class="btn btn-primary" style="margin-bottom:15px;">Geriye Git</a>
+
+<form action="/admin/Proje/Insert" method="post" enctype="multipart/form-data">
+
+    <div class="col-md-12" style="margin-bottom:10px">
+        <input type="text" placeholder="Proje Adı" name="ProjectName" class="form-control" />
+    </div>
+
+    <div class="col-md-12" style="margin-bottom:10px">
+        <input type="file" name="file" class="form-control" />
+    </div>
+
+    <div class="col-md-12" style="margin-bottom:10px">
+        <textarea type="text" placeholder="Proje Açıklaması" name="Explanation" class="form-control" style="height:350px"></textarea>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Ekle</button>
+</form>
+@if (ViewBag.Messages != null)
+{
+    <div class="alert alert-info">@ViewBag.Messages</div>
+}

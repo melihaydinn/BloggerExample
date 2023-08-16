@@ -1,0 +1,23 @@
+﻿<a href="/admin/Sayfalarim" class="btn btn-primary" style="margin-bottom:15px;">Geri Git</a>
+
+<form action="/admin/Sayfalarim/Update/@Model.id" enctype="multipart/form-data" method="post">
+
+    <div class="col-md-12" style="margin-bottom:15px">
+        <img src="/images/@Model.Banners" width="150" />
+        <input type="file" class="form-control" name="file" />
+    </div>
+
+    <div class="col-md-12" style="margin-bottom:15px">
+        <input type="text" class="form-control" name="PageName" value="@Model.PageName" />
+    </div>
+
+    <div class="col-md-12" style="margin-bottom:15px;">
+        <textarea type="text" name="Explanation" placeholder="Sayfa Açıklama" class="form-control" width="150">@Model.Explanation</textarea>
+    </div>
+    <button type="submit" class="btn btn-primary">Güncelle</button>
+
+</form>
+@if (ViewBag.Messages != null)
+{
+    <div class="alert alert-info">@ViewBag.Messages</div>
+}

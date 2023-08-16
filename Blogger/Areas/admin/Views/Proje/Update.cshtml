@@ -1,0 +1,22 @@
+﻿<a href="/admin/Proje" class="btn btn-primary" style="margin-bottom:15px;">Geriye Git</a>
+
+<form action="/Admin/Proje/update/@Model.id" enctype="multipart/form-data">
+    <div class="col-md-12" style="margin-bottom:15px;">
+        <img src="/images/@Model.Images" width="150" />
+        <input type="file" name="file" class="form-control" />
+    </div>
+
+    <div class="col-md-12" style="margin-bottom:15px;">
+        <input type="text" name="ProjectName" class="form-control" value="@Model.ProjectName" />
+    </div>
+
+    <div class="col-md-12" style="margin-bottom:15px;">
+        <textarea type="text" name="ProjectName" class="form-control">@Model.Explanation</textarea>
+    </div>
+    <button type="submit" class="btn btn-primary">Güncelle</button>
+
+</form>
+@if (ViewBag.Messages != null)
+{
+    <div class="alert alert-info">@ViewBag.Messages</div>
+}

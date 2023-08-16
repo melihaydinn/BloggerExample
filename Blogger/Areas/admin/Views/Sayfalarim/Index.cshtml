@@ -1,0 +1,23 @@
+﻿<a href="/admin/Sayfalarim/Insert" class="btn btn-primary" style="margin-bottom:15px;">Yeni Ekle</a>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <td>id</td>
+            <td>Sayfa Adı</td>
+            <td>İşlemler</td>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.id</td>
+                <td>@item.PageName</td>
+                <td>
+                    <a href="/admin/Sayfalarim/update/@item.id" class="btn btn-primary">Guncelle</a>
+                    <a href="/admin/Sayfalarim/delete/@item.id" class="btn btn-danger">sil</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,101 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Blogger
+build_property.RootNamespace = Blogger
+build_property.ProjectDir = C:\Users\ARIBILGI\Source\Repos\melihaydinn\BloggerExample\Blogger\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\ARIBILGI\Source\Repos\melihaydinn\BloggerExample\Blogger
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/ARIBILGI/Source/Repos/melihaydinn/BloggerExample/Blogger/Areas/admin/Views/Begeniler/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcQmVnZW5pbGVyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARIBILGI/Source/Repos/melihaydinn/BloggerExample/Blogger/Areas/admin/Views/Bloglarim/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcQmxvZ2xhcmltXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARIBILGI/Source/Repos/melihaydinn/BloggerExample/Blogger/Areas/admin/Views/Bloglarim/Insert.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcQmxvZ2xhcmltXEluc2VydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARIBILGI/Source/Repos/melihaydinn/BloggerExample/Blogger/Areas/admin/Views/Bloglarim/update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcQmxvZ2xhcmltXHVwZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARIBILGI/Source/Repos/melihaydinn/BloggerExample/Blogger/Areas/admin/Views/Proje/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcUHJvamVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARIBILGI/Source/Repos/melihaydinn/BloggerExample/Blogger/Areas/admin/Views/Proje/Insert.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcUHJvamVcSW5zZXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARIBILGI/Source/Repos/melihaydinn/BloggerExample/Blogger/Areas/admin/Views/Proje/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcUHJvamVcVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARIBILGI/Source/Repos/melihaydinn/BloggerExample/Blogger/Areas/admin/Views/Sayfalarim/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcU2F5ZmFsYXJpbVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARIBILGI/Source/Repos/melihaydinn/BloggerExample/Blogger/Areas/admin/Views/Sayfalarim/Insert.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcU2F5ZmFsYXJpbVxJbnNlcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARIBILGI/Source/Repos/melihaydinn/BloggerExample/Blogger/Areas/admin/Views/Sayfalarim/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcU2F5ZmFsYXJpbVxVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARIBILGI/Source/Repos/melihaydinn/BloggerExample/Blogger/Areas/admin/Views/Shared/_Layoutadmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXRhZG1pbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARIBILGI/Source/Repos/melihaydinn/BloggerExample/Blogger/Areas/admin/Views/Yorumlar/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcWW9ydW1sYXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARIBILGI/Source/Repos/melihaydinn/BloggerExample/Blogger/Areas/admin/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcYWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARIBILGI/Source/Repos/melihaydinn/BloggerExample/Blogger/Pages/Shared/Components/Menuler/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXENvbXBvbmVudHNcTWVudWxlclxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARIBILGI/Source/Repos/melihaydinn/BloggerExample/Blogger/Views/Bloglar/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ2xhclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARIBILGI/Source/Repos/melihaydinn/BloggerExample/Blogger/Views/Hakkimda/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFra2ltZGFcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARIBILGI/Source/Repos/melihaydinn/BloggerExample/Blogger/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARIBILGI/Source/Repos/melihaydinn/BloggerExample/Blogger/Views/iletisim/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcaWxldGlzaW1cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARIBILGI/Source/Repos/melihaydinn/BloggerExample/Blogger/Views/projects/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccHJvamVjdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARIBILGI/Source/Repos/melihaydinn/BloggerExample/Blogger/Views/_Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1NoYXJlZFxfTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ARIBILGI/Source/Repos/melihaydinn/BloggerExample/Blogger/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

@@ -1,0 +1,23 @@
+﻿<a href="/admin/Sayfalarim" class="btn btn-primary" style="margin-bottom:15px;">Geri Git</a>
+
+<form action="/admin/Sayfalarim/Insert" method="post" enctype="multipart/form-data">
+
+    <div class="col-md-12" style="margin-bottom:15px;">
+        <input  type="text" name="PageName" placeholder="Sayfa Adı" class="form-control"/>
+    </div>
+
+    <div class="col-md-12" style="margin-bottom:15px;">
+        <input type="file" name="file" class="form-control" />
+    </div>
+
+    <div class="col-md-12" style="margin-bottom:15px;">
+        <textarea type="text" name="Explanation" placeholder="Sayfa Açıklama" class="form-control" width="150"></textarea>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Ekle</button>
+
+</form>
+@if (ViewBag.Messages != null)
+{
+    <div class="alert alert-info">@ViewBag.Messages</div>
+}

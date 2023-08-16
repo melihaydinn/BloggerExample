@@ -1,0 +1,24 @@
+﻿
+<table class="table table-bordered" style="margin-bottom:15px">
+
+    <thead>
+        <tr>
+            <td>id</td>
+            <td>ip Adresi</td>
+            <td>Beğenme</td>
+            <td>Begenmeme</td>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.id</td>
+                <td>@item.ipAdresi</td>
+                <td></td>
+                <td></td>
+            </tr>
+        }
+    </tbody>
+
+</table>
